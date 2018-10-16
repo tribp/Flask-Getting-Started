@@ -21,6 +21,9 @@ Now, install all the required libraries with the correct version as given in the
 ```
 pip install -r requirements.txt
 ```
+Simlpe test:
+  - run 'python' in terminal -> check if correct version
+  - type 'import flask' in python terminal -> if no error flask was installed.  
 
 ## 1 Basic commands
 ### 1.1 docker version
