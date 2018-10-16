@@ -17,6 +17,11 @@ source activate mynewflaskenv
 ```
 <img src="images/bash_activate_environment.png" width="600px" >
 
+Now, install all the required libraries with the correct version as given in the txt file
+```
+pip install -r requirements.txt
+```
+
 ## 1 Basic commands
 ### 1.1 docker version
 ```
