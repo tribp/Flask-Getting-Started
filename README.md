@@ -1,6 +1,6 @@
 # Flask-Getting-Started
 
-<img src="images/Flask.png" width="300px" ><img style="text-align: right" src="images/Docker_Flask.jpeg" width="300px" >
+<img src="images/Flask.png" width="300px" ><right><img src="images/Docker_Flask.jpeg" width="300px" ></right>
 
 
 ## 0 - Creating Python environment
