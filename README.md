@@ -15,6 +15,7 @@ Activate the environment
 ```
 source activate mynewflaskenv
 ```
+<img src="images/bash_activate_environment.png" width="300px" >
 
 ## 1 Basic commands
 ### 1.1 docker version
