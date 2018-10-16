@@ -1,6 +1,7 @@
 # Flask-Getting-Started
-Architecture: docker vs VM  
-<img src="images/dockerVsVM.png" width="600px" >
+
+<img src="images/Flask.png" width="400px" >
+<img src="images/Docker_Flask.jpeg" width="400px" >
 
 ## 0 - Creating Python environment
 
