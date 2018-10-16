@@ -13,7 +13,7 @@ conda create -n mynewflaskenv python=3.6
 ```
 Activate the environment
 ```
-
+source activate mynewflaskenv
 ```
 
 ## 1 Basic commands
