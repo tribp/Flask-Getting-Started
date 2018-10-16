@@ -1,6 +1,6 @@
 # Flask-Getting-Started
 
-<img src="images/Flask.png" width="300px" ><img align="right" src="images/Docker_Flask.jpeg" width="500px" >
+<img src="images/Flask.png" width="300px" ><img align="right" src="images/Docker_Flask.jpeg" width="200px" >
 
 
 ## 0 - Creating Python environment
@@ -15,7 +15,7 @@ Activate the environment
 ```
 source activate mynewflaskenv
 ```
-<img src="images/bash_activate_environment.png" width="300px" >
+<img src="images/bash_activate_environment.png" width="600px" >
 
 ## 1 Basic commands
 ### 1.1 docker version
